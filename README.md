@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I am Gunjan Patel 👋
 
+Great. I am Full Stack Developer, but I prefer to work mostly with backend stuffs. 
+
+// TODO 🤔
 <!--
 **gunjanpatel/gunjanpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
