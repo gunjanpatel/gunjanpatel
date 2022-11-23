@@ -1,6 +1,6 @@
 ### Hi, I am Gunjan Patel 👋
 
-Great. I am Full Stack Developer, but I prefer to work mostly with backend stuffs. 
+Great. I am Full Stack Developer, but I enjoy working mostly with backend stuffs. 
 
 // TODO 🤔
 <!--
